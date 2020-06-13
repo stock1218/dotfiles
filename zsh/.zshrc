@@ -96,7 +96,9 @@ export SSH_KEY_PATH="~/.ssh/rsa_id"
 alias vim='nvim'
 alias v='nvim'
 alias ls='ls -l --color=auto'
+alias py='python3'
 alias neofetch='neofetch --w3m --source ~/Pictures/tron.jpg'
+alias open='xdg-open'
 
-fortune -c | cowthink -f $(find /usr/share/cows -type f | shuf -n 1)
+#fortune -c | cowthink -f $(find /usr/share/cows -type f | shuf -n 1) | lolcat
 echo "Welcome, $(date)"

@@ -208,7 +208,7 @@ set number
 
 let no_buffers_menu=1
 if !exists('g:not_finish_vimplug')
-  colorscheme miniml
+  colorscheme molokai
 endif
 
 set mousemodel=popup
