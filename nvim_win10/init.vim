@@ -1,4 +1,4 @@
-# Borrowed from https://jdhao.github.io/2018/11/15/neovim_configuration_windows/
+" Borrowed from https://jdhao.github.io/2018/11/15/neovim_configuration_windows/
 
 call plug#begin('~/AppData/Local/nvim/plugged')
 " below are some vim plugins for demonstration purpose.
